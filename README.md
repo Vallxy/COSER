@@ -12,19 +12,18 @@ Graphical User Interface (GUI) testing is one of the primary approaches for test
 
 ## Citation
 
-@inproceedings{10.1145/3597503.3639108,
-author = {Cao, Shaoheng and Pan, Minxue and Pei, Yu and Yang, Wenhua and Zhang, Tian and Wang, Linzhang and Li, Xuandong},
-title = {Comprehensive Semantic Repair of Obsolete GUI Test Scripts for Mobile Applications},
-year = {2024},
-isbn = {9798400702174},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3597503.3639108},
-doi = {10.1145/3597503.3639108},
-booktitle = {Proceedings of the IEEE/ACM 46th International Conference on Software Engineering},
-articleno = {90},
-numpages = {13},
-keywords = {GUI test script repair, Android testing, regression testing},
-location = {<conf-loc>, <city>Lisbon</city>, <country>Portugal</country>, </conf-loc>},
-series = {ICSE '24}
-}
+@inproceedings{COSER, 
+author = {Cao, Shaoheng and Pan, Minxue and Pei, Yu and Yang, Wenhua and Zhang, Tian and Wang, Linzhang and Li, Xuandong}, 
+title = {Comprehensive Semantic Repair of Obsolete GUI Test Scripts for Mobile Applications}, 
+year = {2024}, 
+isbn = {9798400702174}, 
+publisher = {Association for Computing Machinery}, 
+address = {New York, NY, USA}, 
+url = {https://doi.org/10.1145/3597503.3639108}, 
+doi = {10.1145/3597503.3639108}, 
+booktitle = {Proceedings of the IEEE/ACM 46th International Conference on Software Engineering}, 
+articleno = {90}, 
+numpages = {13}, 
+keywords = {GUI test script repair, Android testing, regression testing}, 
+location = {, Lisbon, Portugal, }, 
+series = {ICSE '24} }
