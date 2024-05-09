@@ -2,7 +2,7 @@
 
 ## Resources
 
-- Paper: Coming soon
+- Paper: [ICSE24](https://dl.acm.org/doi/abs/10.1145/3597503.3639108)
 
 - Artifact: [Google Drive](https://drive.google.com/file/d/1NT_H7rc_wo-h9Zq5OXwAg4zaf2rgGfEp/view?usp=drive_link)
 
@@ -12,4 +12,19 @@ Graphical User Interface (GUI) testing is one of the primary approaches for test
 
 ## Citation
 
-Coming soon
+@inproceedings{10.1145/3597503.3639108,
+author = {Cao, Shaoheng and Pan, Minxue and Pei, Yu and Yang, Wenhua and Zhang, Tian and Wang, Linzhang and Li, Xuandong},
+title = {Comprehensive Semantic Repair of Obsolete GUI Test Scripts for Mobile Applications},
+year = {2024},
+isbn = {9798400702174},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3597503.3639108},
+doi = {10.1145/3597503.3639108},
+booktitle = {Proceedings of the IEEE/ACM 46th International Conference on Software Engineering},
+articleno = {90},
+numpages = {13},
+keywords = {GUI test script repair, Android testing, regression testing},
+location = {<conf-loc>, <city>Lisbon</city>, <country>Portugal</country>, </conf-loc>},
+series = {ICSE '24}
+}
